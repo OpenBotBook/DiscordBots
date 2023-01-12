@@ -17,7 +17,7 @@ bot.run('YOUR_TOKEN_HERE')
 
 ################################
 #         Bot Details
-# DiscordBots/pull-bot 
+# DiscordBots/pull-bot/discord.py 
 # Version: 1.0
 ################################
 #         Copy Right Details
