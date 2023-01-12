@@ -20,7 +20,7 @@ bot.run('YOUR_TOKEN_HERE')
 # DiscordBots/pull-bot/discord.py 
 # Version: 1.0
 ################################
-#         Copy Right Details
+#         Copyright Details
 # © OpenBotBook
 # https://github.com/OpenBotBook
 # Apache License
