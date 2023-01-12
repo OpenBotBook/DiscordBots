@@ -21,7 +21,7 @@ client.login('YOUR_TOKEN_HERE');
 // DiscordBots/pull-bot/discord.js 
 // Version: 1.0
 ////////////////////////////////
-//        Copy Right Details
+//        Copyright Details
 // © OpenBotBook
 // https://github.com/OpenBotBook
 // Apache License
