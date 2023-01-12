@@ -15,3 +15,16 @@ client.on('message', message => {
 });
 
 client.login('YOUR_TOKEN_HERE');
+
+////////////////////////////////
+//        Bot Details
+// DiscordBots/pull-bot/discord.js 
+// Version: 1.0
+////////////////////////////////
+//        Copy Right Details
+// © OpenBotBook
+// https://github.com/OpenBotBook
+// Apache License
+// Version 2.0, January 2004
+// http://www.apache.org/licenses/
+////////////////////////////////
